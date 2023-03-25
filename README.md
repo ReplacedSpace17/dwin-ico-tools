@@ -66,24 +66,30 @@ python3 start.py
 Split-Ico permite descomprimir un archivo .ICO para obtener una carpeta con íconos en su interior en formato .JPG
 Pasos:
 -  Copiar el archivo .ICO dentro del repositorio del proyecto.
-![image](https://user-images.githubusercontent.com/50347332/227741107-001d864b-0c78-4a4f-bb8c-7a4b6f8fcec9.png)
+
+ ![image](https://user-images.githubusercontent.com/50347332/227741107-001d864b-0c78-4a4f-bb8c-7a4b6f8fcec9.png)
+
 - Correr el archivo start.py. Puedes ejecutarlo en el PowerShell mediante el siguiente comando estando dentro del directorio raíz del proyecto: 
-![image](https://user-images.githubusercontent.com/50347332/227740705-d13eb41d-b4b4-4a2e-8dbe-e50cad37b5d2.png)
+
+ ![image](https://user-images.githubusercontent.com/50347332/227740705-d13eb41d-b4b4-4a2e-8dbe-e50cad37b5d2.png)
+
 - Seleccionar la opción 1 (SplitIco) y presione Enter.
-![image](https://user-images.githubusercontent.com/50347332/227741144-476c5299-284d-4dbd-9bff-8afaa4a56602.png)
+ 
+ ![image](https://user-images.githubusercontent.com/50347332/227741144-476c5299-284d-4dbd-9bff-8afaa4a56602.png)
 
 - A continuación se deberá escribir el nombre del archivo .ICO y presionar Enter.
 
-![image](https://user-images.githubusercontent.com/50347332/227741161-0a4c00b0-499d-4570-8334-2c48ab63cac5.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227741161-0a4c00b0-499d-4570-8334-2c48ab63cac5.png)
 
 - Colocar el nombre que tendrá la carpeta en donde se descomprimirá y presionar Enter.
 
-![image](https://user-images.githubusercontent.com/50347332/227741182-123fdf3a-ac5a-4c9e-bdf7-b723ce3dbd38.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227741182-123fdf3a-ac5a-4c9e-bdf7-b723ce3dbd38.png)
 
-![image](https://user-images.githubusercontent.com/50347332/227741210-75ff1f0b-3426-4539-9b10-61996f69e5ef.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227741210-75ff1f0b-3426-4539-9b10-61996f69e5ef.png)
 
 - Verificar el archivo en el directorio.
-![image](https://user-images.githubusercontent.com/50347332/227741225-49060823-ba97-4ec0-afdb-fd3dd171bf17.png)
+
+ ![image](https://user-images.githubusercontent.com/50347332/227741225-49060823-ba97-4ec0-afdb-fd3dd171bf17.png)
 
 ## Diagrama
 
