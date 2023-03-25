@@ -38,13 +38,13 @@ python3 -m pip install pillow
 Make-Ico permite crear un archivo .ICO a partir de una carpeta con íconos en su interior en formato .JPG
 Pasos:
 -  Copiar tu carpeta de iconos dentro del repositorio del proyecto.
-![image](https://user-images.githubusercontent.com/50347332/227740662-4dcf7e1c-6c25-4ace-8292-6718975e1ad6.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227740662-4dcf7e1c-6c25-4ace-8292-6718975e1ad6.png)
 
 - Correr el archivo **`start.py`**. Puedes ejecutarlo en el PowerShell mediante el siguiente comando estando dentro del directorio raíz del proyecto: 
 ```javascript
 python3 start.py
 ```
-![image](https://user-images.githubusercontent.com/50347332/227740705-d13eb41d-b4b4-4a2e-8dbe-e50cad37b5d2.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227740705-d13eb41d-b4b4-4a2e-8dbe-e50cad37b5d2.png)
 
 - Seleccionar la opción 2 (MakeIco) y presione Enter.
  ![image](https://user-images.githubusercontent.com/50347332/227740847-aaf9b191-2b6c-45bb-b4f5-4dd0a79d614e.png)
@@ -56,8 +56,10 @@ python3 start.py
  ![image](https://user-images.githubusercontent.com/50347332/227741029-ee5b8cc7-de95-4d47-a122-5e1499c7ff0a.png)
 
 - Verificar el archivo en el directorio.
-![image](https://user-images.githubusercontent.com/50347332/227741037-91c66c1d-2462-4d3b-b161-0d3b1992aa9a.png)
-![image](https://user-images.githubusercontent.com/50347332/227741049-617188b7-655c-43d7-bc6b-0287db442bfe.png)
+
+ ![image](https://user-images.githubusercontent.com/50347332/227741037-91c66c1d-2462-4d3b-b161-0d3b1992aa9a.png)
+
+ ![image](https://user-images.githubusercontent.com/50347332/227741049-617188b7-655c-43d7-bc6b-0287db442bfe.png)
 
 
 ### Split-Ico
@@ -71,10 +73,13 @@ Pasos:
 ![image](https://user-images.githubusercontent.com/50347332/227741144-476c5299-284d-4dbd-9bff-8afaa4a56602.png)
 
 - A continuación se deberá escribir el nombre del archivo .ICO y presionar Enter.
+
 ![image](https://user-images.githubusercontent.com/50347332/227741161-0a4c00b0-499d-4570-8334-2c48ab63cac5.png)
 
 - Colocar el nombre que tendrá la carpeta en donde se descomprimirá y presionar Enter.
+
 ![image](https://user-images.githubusercontent.com/50347332/227741182-123fdf3a-ac5a-4c9e-bdf7-b723ce3dbd38.png)
+
 ![image](https://user-images.githubusercontent.com/50347332/227741210-75ff1f0b-3426-4539-9b10-61996f69e5ef.png)
 
 - Verificar el archivo en el directorio.
