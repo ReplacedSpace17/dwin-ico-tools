@@ -47,13 +47,13 @@ python3 start.py
 ![image](https://user-images.githubusercontent.com/50347332/227740705-d13eb41d-b4b4-4a2e-8dbe-e50cad37b5d2.png)
 
 - Seleccionar la opción 2 (MakeIco) y presione Enter.
-![image](https://user-images.githubusercontent.com/50347332/227740847-aaf9b191-2b6c-45bb-b4f5-4dd0a79d614e.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227740847-aaf9b191-2b6c-45bb-b4f5-4dd0a79d614e.png)
 
 - A continuación se deberá escribir el nombre de la carpeta con los íconos y presionar Enter.
-![image](https://user-images.githubusercontent.com/50347332/227740899-ed318c95-2b5f-44d8-96e2-e2ea10584472.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227740899-ed318c95-2b5f-44d8-96e2-e2ea10584472.png)
 
 - Colocar el nombre que tendrá el archivo .ICO y presionar Enter.
-![image](https://user-images.githubusercontent.com/50347332/227741029-ee5b8cc7-de95-4d47-a122-5e1499c7ff0a.png)
+ ![image](https://user-images.githubusercontent.com/50347332/227741029-ee5b8cc7-de95-4d47-a122-5e1499c7ff0a.png)
 
 - Verificar el archivo en el directorio.
 ![image](https://user-images.githubusercontent.com/50347332/227741037-91c66c1d-2462-4d3b-b161-0d3b1992aa9a.png)
